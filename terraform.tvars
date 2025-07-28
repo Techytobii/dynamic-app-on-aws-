@@ -1,0 +1,4 @@
+subnets = ["subnet-072236c7d01076a9a"]
+security_group_id = "sg-048aebe5541984a88"
+task_execution_role_arn = "arn:aws:iam::465828358642:role/ecsTaskExecutionRoleManual"
+
